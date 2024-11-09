@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 from utils import load_model, preprocess_data, predict_anomalies, load_data_from_pkl
 
-st.set_page_config(page_icon="🤡", page_title="Trabajo Final")
+st.set_page_config(page_icon="🎇", page_title="Trabajo Final")
 st.image("logob_m_EPG.png", width=200)
 st.title("Detección de anomalías para clientes en el sector financiero")
 col1, col2 = st.columns([5, 5])
