@@ -2,3 +2,7 @@ streamlit
 joblib
 torch
 scikit-learn
+pandas
+matplotlib
+keras
+tensorflow
